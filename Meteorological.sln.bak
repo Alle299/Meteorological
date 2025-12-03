@@ -5,9 +5,9 @@ VisualStudioVersion = 17.14.36717.8 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meteorological", "Meteorological.csproj", "{E019EBA0-B394-404F-B169-E7B5F1B0477A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meteorological_Test", "Meteorological_Test\Meteorological_Test.csproj", "{E5BD2C17-C708-41D3-A217-1E53A20B6797}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meteorological_Test", "..\Meteorological_Test\Meteorological_Test.csproj", "{E5BD2C17-C708-41D3-A217-1E53A20B6797}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meteorological_API", "Meteorological_API\Meteorological_API.csproj", "{70C28C7E-6359-4071-AEEF-FFD86E4D1C1E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meteorological_API", "..\Meteorological_API\Meteorological_API.csproj", "{70C28C7E-6359-4071-AEEF-FFD86E4D1C1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
