@@ -57,7 +57,6 @@ namespace Meteorological
                         else
                         {
                             Console.WriteLine($"Error: {station["key"]} - {stationResponse.StatusCode} - {stationResponse.ReasonPhrase}");
-                           
                         }
                     }
                 }
@@ -66,8 +65,6 @@ namespace Meteorological
                     Console.WriteLine($"Error: {response.StatusCode} - {response.ReasonPhrase}");
                     return;
                 }
-
-                var sSAsA = 1;
             }
         }
 
