@@ -1,5 +1,6 @@
 ## Meteorological
 ### An example of Api calls against the SMHI metrological data API
+### Code tested and run localy through the swagger interface.
 
 ### Design decisions
 ##### The API endpoints can be found in the Meterological_API project
